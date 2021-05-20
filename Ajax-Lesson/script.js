@@ -1,4 +1,5 @@
-API_KEY = "2dac7d10b819614cf8526d85927f1148";
+// XXXにOpenWeatherMapのAPI_Keyを入力して使う
+API_KEY = "XXX";
 $(function(){
   $("#btn").on("click", function() {
     $.ajax({
